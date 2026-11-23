@@ -23,8 +23,6 @@ The application uses a Python FastAPI backend, a background processing worker an
 
 ## Research integrations
 
-- Tavily Search API — web research.
-- Internet Archive — historical website research.
 - OpenCorporates — planned company-record research integration.
 
 ## Research principles
@@ -37,6 +35,3 @@ The project is intended to support evidence-based research, including potential 
 
 Working local prototype. Open-source documentation and further integrations are in development.
 
-## Licensing
-
-The application source code is intended for release under the MIT License, subject to a final code and dependency review. Third-party data remains subject to the applicable provider licences.
